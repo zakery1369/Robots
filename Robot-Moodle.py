@@ -9,7 +9,7 @@ robot = 1
 while robot < 411:
     driver = webdriver.Firefox(executable_path="./geckodriver")
     # Moodle login address
-    driver.get("https://zmoodle.ttop.ir/login/index.php")
+    driver.get("https://Example.com/login/index.php")
 
     time.sleep(5)
     username =  driver.find_element_by_name("username")
