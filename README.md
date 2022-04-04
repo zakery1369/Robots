@@ -1,4 +1,4 @@
-# Moodle Login Robot
+# Moodle Login Robot (Without Browser)
 
 ![Moodle Login Robot](https://miro.medium.com/max/1086/1*6oYKXtP3uUHT3Aybxif20g.png)
 
