@@ -23,7 +23,7 @@ while robot < 411:
     login = driver.find_element_by_id("loginbtn").click()
     # Word search to ensure correct login
     sourcetext=driver.page_source
-    searchword="April 2022"
+    searchword="any word in this page"
     # True or False
     print(searchword in sourcetext)
     # Show robot number 
